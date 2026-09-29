@@ -32,14 +32,8 @@ function sortAll() {
 function NumberForm() {
     const $form = document.createElement("form");
     $form.innerHTML =
-    <label>
-        Add a number to the bank
-        <input name="number" type="number" />
- </label>
- 
-}
-
-
-
-
-]
+    <><label>
+            Add a number to the bank
+            <input name="number" type="number" />
+        </label><button type /></>"submit" data-action="add"> Add number</button>
+    <><button type="submit" data-action="sortOne"> Sort 1</button><button type="submit" data-action="sortAll</button>&#xD;&#xA;;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;]" /></>
